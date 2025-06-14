@@ -33,11 +33,7 @@ footer a {
   margin-bottom: 50px;
 }
 
-/* index.css */
-nav {
-  background-color: #333;
-  padding: 10px;
-}
+
 
 .nav-section {
   display: flex;
@@ -86,6 +82,7 @@ nav {
   background-color: #3e8e41;
 }
 
+/* Navigation styles */
 nav {
   background-color: #333;
   padding: 10px;
